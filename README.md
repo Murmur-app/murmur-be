@@ -1,3 +1,3 @@
 # murmur-be
 
-a [Sails](http://sailsjs.org) application
+Murmur app backend
